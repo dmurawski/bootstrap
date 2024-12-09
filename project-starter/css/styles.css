@@ -5,3 +5,8 @@
 .btn.btn-outline-light.nav-link {
   border: 1px solid #f8f9fa !important;
 }
+
+.header {
+  background: url(../images/header-background.jpg) center center no-repeat;
+  background-size: cover;
+}
