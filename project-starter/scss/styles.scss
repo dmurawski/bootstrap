@@ -30,6 +30,17 @@
   opacity: 0.8;
 }
 
+.details .vertical-decoration {
+  top: 30px;
+  left: 0;
+  width: 24px;
+}
+.details-2 .vertical-decoration {
+  top: 30px;
+  right: 0;
+  width: 24px;
+}
+
 // video play button
 .video-play-btn {
   position: absolute;
